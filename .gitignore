@@ -1,0 +1,6 @@
+#local files to remove from repository
+.terraform
+*.tfstate
+*.tfstate.backup
+
+
